@@ -1,0 +1,1 @@
+Mozilla Firefox 73.0 (64-bit)
