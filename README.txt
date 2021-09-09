@@ -1,1 +1,1 @@
-Mozilla Firefox 73.0 (64-bit)
+Design a copy o Lancaster's Uni home page as a course project.
